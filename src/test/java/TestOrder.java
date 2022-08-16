@@ -1,6 +1,6 @@
-import PageObjectPackage.MainPage;
-import PageObjectPackage.FirstPageOrder;
-import PageObjectPackage.SecondPageOrder;
+import pageobjectpackage.MainPage;
+import pageobjectpackage.FirstPageOrder;
+import pageobjectpackage.SecondPageOrder;
 import static org.junit.Assert.*;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -8,7 +8,6 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 

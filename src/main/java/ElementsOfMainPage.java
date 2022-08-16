@@ -1,4 +1,3 @@
-public class ElementsOfMainPage {
 
     //Раздел "Вопросы о важном"
     //class="Home_FourPart__1uthg"
@@ -141,5 +140,3 @@ public class ElementsOfMainPage {
 
     //Кнопка "Заказать" в середине страницы
     //class="Button_Middle__1CSJM"
-
-}
