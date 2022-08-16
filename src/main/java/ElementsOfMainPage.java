@@ -1,4 +1,3 @@
-public class ElementsOfMainPage {
 
     //Раздел "Вопросы о важном"
     //class="Home_FourPart__1uthg"
@@ -91,6 +90,7 @@ public class ElementsOfMainPage {
 
     //Выпадающий список станций метро
     //class="select-search__input"
+    //value="название_станции"
 
     //Поле "Телефон: на него позвонит курьер"
     //class="Input_Input__1iN_Z Input_Responsible__1jDKN"
@@ -105,7 +105,7 @@ public class ElementsOfMainPage {
     //class="react-datepicker__input-container"
 
     //Выпадающий список "Срок аренды"
-    //class="Dropdown-control"
+    //текст
 
     //Чек-лист с чекбоксами "Цвет самоката"
     //class="Order_Checkboxes__3lWSI"
@@ -139,6 +139,4 @@ public class ElementsOfMainPage {
     //class="Button_Button__ra12g Button_Middle__1CSJM"
 
     //Кнопка "Заказать" в середине страницы
-    //class="Home_FinishButton__1_cWm"
-
-}
+    //class="Button_Middle__1CSJM"
